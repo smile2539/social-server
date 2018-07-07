@@ -22,7 +22,7 @@ app.get("/", (req, res) => {
   return res.json({
     title: "Welcome",
     message: "Your Server is running well",
-    author: "Bundit Nuntates",
+    author: "Yupaporn Chaiwut",
     version: "0.1-beta"
   });
 });
